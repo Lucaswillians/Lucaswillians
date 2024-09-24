@@ -10,3 +10,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="Csharp" **alt="Csharp" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" title="Java" **alt="Java" width="40" height="40"/>
 </div>
+
+<div align="center">
+<a href="https://github.com/guusdias/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaswillians&layout=normal&theme=transparent&card_width=480&hide=css,html,cmake,dart,c" />
+</a></div>
+</div>
